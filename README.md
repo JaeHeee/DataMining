@@ -43,3 +43,5 @@
 * Null값 연산
 * pd.concat
 * pd.merge
+
+### 3.Scikit-learn
