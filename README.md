@@ -48,6 +48,13 @@
 <br/>
 
 ### 3.Scikit-learn
+***
+* Decision Tree
+* KNN
 <br/>
 <br/>
 <br/>
+
+### homework
+***
+* KNN
